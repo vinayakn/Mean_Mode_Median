@@ -47,3 +47,23 @@ Mean of Data : 97.0
 Median of Data : 35
 
 There is no mode for this data set. All values occur only once.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+from  BASIC_STAT import get as Basic
+
+d=Basic.Stats([10,20,25,50,35,40,40,40,40])
+
+print d.mean()
+
+print d.median()
+
+print d.mode()
+
+Result:
+
+Mean of Data : 33.0
+
+Median of Data : 40
+
+Mode of Data : [40]  Freq: 4
