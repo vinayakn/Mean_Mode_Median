@@ -14,57 +14,57 @@ requre python 2.7
 3. Then run this code from terminal or any notebook 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-## How to Use?:
+## How to Use?:<br /> 
 
-#### Example 1:
+#### Example 1:<br /> 
 
-* **importing file**
-From  BASIC_STAT import get as Basic;
+* **importing file**<br /> 
+From  BASIC_STAT import get as Basic;<br /> 
 
-* **calculating Mean Mode and Median of any array:**
- d=Basic.Stats([10,20,25,50,35,40]);
- print d.mean();
- print d.median();
- print d.mode();
+* **calculating Mean Mode and Median of any array:**<br /> 
+ d=Basic.Stats([10,20,25,50,35,40]);<br /> 
+ print d.mean();<br /> 
+ print d.median();<br /> 
+ print d.mode();<br /> 
 
-* **Results:**
-Mean of Data : 30.0
-Median of Data : 30.0
-There is no mode for this data set. All values occur only once.
+* **Results:**<br /> 
+Mean of Data : 30.0<br /> 
+Median of Data : 30.0<br /> 
+There is no mode for this data set. All values occur only once.<br /> 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-#### Example 2:
+#### Example 2:<br /> 
 
-* **importing file**
-From  BASIC_STAT import get as Basic;
+* **importing file**<br /> 
+From  BASIC_STAT import get as Basic;<br /> 
 
-* **Calulating Mean Mode Median of any array:**
-d=Basic.Stats([10,20,25,50,35,40,500]);
-print d.mean();
-print d.median();
-print d.mode();
+* **Calulating Mean Mode Median of any array:**<br /> 
+d=Basic.Stats([10,20,25,50,35,40,500]);<br /> 
+print d.mean();<br /> 
+print d.median();<br /> 
+print d.mode();<br /> 
 
-* **Result:**
-Mean of Data : 97.0
-Median of Data : 35
-There is no mode for this data set. All values occur only once.
+* **Result:**<br /> 
+Mean of Data : 97.0<br /> 
+Median of Data : 35<br /> 
+There is no mode for this data set. All values occur only once.<br /> 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-#### Example 3:
+#### Example 3:<br /> 
 
-* **importing file**
-From  BASIC_STAT import get as Basic
+* **importing file**<br /> 
+From  BASIC_STAT import get as Basic<br /> 
 
-* **Calulating Mean Mode Median of any array:**
-d=Basic.Stats([10,20,25,50,35,40,40,40,40]);
-print d.mean();
-print d.median();
-print d.mode();
+* **Calulating Mean Mode Median of any array:**<br /> 
+d=Basic.Stats([10,20,25,50,35,40,40,40,40]);<br /> 
+print d.mean();<br /> 
+print d.median();<br /> 
+print d.mode();<br /> 
 
 * **Result:**
-Mean of Data : 33.0
-Median of Data : 40
-Mode of Data : [40]  Freq: 4
+Mean of Data : 33.0<br /> 
+Median of Data : 40<br /> 
+Mode of Data : [40]  Freq: 4<br /> 
