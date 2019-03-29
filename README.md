@@ -12,7 +12,7 @@ To understand what is mean median and Mode do go through this article at [Median
 
 Package to find Mean mode and Median of an Array
 
-## Installtion
+## Installation
 requre python 2.7
 
 ## Steps to Follow.
