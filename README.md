@@ -1,5 +1,12 @@
 # Mean_Mode_Median
 
+Say we have collected some data that may be in any random domain for example in Retail domain the Sales data,or may be in Online Advertising domain the Campaign data(How many Impression served/CTR/CPM etc) or say in Automobile Domain the Production data(Number of cars manufactured). It may be any data in any domain if we would like to summaries or describe the data with single value as a starting point then how we can do it? this is when Measure of central tendency comes into picture. 
+
+* **Let’s go over below most common Measure of Central Tendency .**
+* Mean
+* Median
+* Mode
+
 To understand what is mean median and Mode Please go through this article at [Median](https://medium.com/@vinayak_navale/mean-mode-median-measure-of-central-tendency-cf996948fc3f) and feel free to share and clap :)
 
 
